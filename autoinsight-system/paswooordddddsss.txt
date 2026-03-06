@@ -1,0 +1,10 @@
+| Role            | Email                                                     | Password |
+| --------------- | --------------------------------------------------------- | -------- |
+| Admin           | [admin@autoinsight.com](mailto:admin@autoinsight.com)     | password |
+| Client          | [client@autoinsight.com](mailto:client@autoinsight.com)   | password |
+| Technician      | [tech@autoinsight.com](mailto:tech@autoinsight.com)       | password |
+| Service Manager | [manager@autoinsight.com](mailto:manager@autoinsight.com) | password |
+| General Manager | [gm@autoinsight.com](mailto:gm@autoinsight.com)           | password |
+| Stock Keeper    | [stock@autoinsight.com](mailto:stock@autoinsight.com)     | password |
+| Finance Manager | [finance@autoinsight.com](mailto:finance@autoinsight.com) | password |
+| Data Analyst    | [analyst@autoinsight.com](mailto:analyst@autoinsight.com) | password |
